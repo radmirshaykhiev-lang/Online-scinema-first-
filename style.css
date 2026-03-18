@@ -1,0 +1,22 @@
+header{
+    background-color:black;
+}
+h1{
+    color: rgb(188, 16, 19);
+}
+
+p{
+    color: blueviolet;
+}
+
+main{
+    background-color: black;
+}
+
+button{
+    color: aquamarine;
+    background-color: blue;
+}
+body{
+    background-color: black;
+}
