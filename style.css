@@ -13,10 +13,6 @@ main{
     background-color: rgba(0, 0, 0, 0.1); 
 }
 
-button{
-    color: aquamarine;
-    background-color: blue;
-}
 body {
   /* Путь к вашему изображению */
   background-image: url('aynkrad-mastera-mecha-onlayn.webp');
@@ -32,4 +28,11 @@ body {
 
   /* Закрепить фон, чтобы он не прокручивался */
   background-attachment: fixed;
+}
+button{
+    background-color: rgba(0, 0, 0, 0.01); 
+    color: rgb(207, 177, 177);
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
 }
