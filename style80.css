@@ -1,0 +1,13 @@
+main{
+    background-color: rgba(0, 0, 0, 0.1); 
+}
+header{
+    color: rgb(207, 177, 177);
+}
+body {
+  background-image: url('aynkrad-mastera-mecha-onlayn.webp');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+}
