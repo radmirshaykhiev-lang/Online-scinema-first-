@@ -60,4 +60,16 @@ button{
     .button-wrapper {
         margin-bottom: 15px;         /* Больше пространства между кнопками */
     }
+    #phfl{
+        display: inline-block;        /* Позволяет настраивать размеры и отступы */
+        font-family: Arial, sans-serif; /* Понятный шрифт без засечек */
+        font-size: 18px;             /* Крупный, читаемый размер текста */
+        color: rgb(100, 172, 195);                /* Цвет текста (белый) */
+        background-color: #eeeeee00;   /* Цвет фона (приятный синий) */
+        padding: 12px 24px;          /* Внутренние отступы, чтобы тексту не было тесно */
+        text-decoration: none;       /* Убираем подчеркивание ссылки */
+        border-radius: 8px;          /* Закругленные углы */
+        transition: background 0.3s; /* Плавный переход цвета при наведении */
+        font-weight: bold;   
+    }
 
